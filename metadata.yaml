@@ -1,11 +1,16 @@
 _repo: Pai-Tu-Chi_57238
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ming, I
     gutenberg_agent_id: '49265'
     url: http://www.gutenberg.org/2009/agents/49265
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57238#Pai-Tu-Chi
 gutenberg_issued: '2018-05-30'
 gutenberg_type: Text
 identifiers:
